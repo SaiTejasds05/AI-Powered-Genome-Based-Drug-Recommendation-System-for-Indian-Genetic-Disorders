@@ -1,0 +1,2 @@
+# AI-Powered-Genome-Based-Drug-Recommendation-System-for-Indian-Genetic-Disorders
+An AI-powered drug recommendation system that: Analyzes genomic data (likely SNPs or gene expressions), Integrates domain knowledge from PharmGKB and gene ontology, Uses Graph Neural Networks (GNNs) for reasoning over gene-drug interactions, Applies Reinforcement Learning (RL) to personalize drug treatment dynamically.
