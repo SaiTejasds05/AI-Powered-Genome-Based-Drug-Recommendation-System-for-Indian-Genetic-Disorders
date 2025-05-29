@@ -1,0 +1,11 @@
+Gene	Variant/Haplotypes	Effect	Evidence_Level	Population_Frequency	Clinical_Significance
+CYP2D6	*4	Decreased function	1A	0.15	High
+CYP2C19	*2	No function	1A	0.12	High
+SLCO1B1	rs4149056	Decreased function	1A	0.08	Moderate
+VKORC1	rs9923231	Decreased function	1A	0.25	High
+TPMT	*3A	Decreased function	1A	0.05	High
+G6PD	B	Decreased function	1A	0.18	High
+HLA-B	*57:01	Increased risk	1A	0.03	High
+CYP2C9	*2	Decreased function	1A	0.10	Moderate
+DPYD	*2A	Decreased function	1A	0.02	High
+MTHFR	rs1801133	Decreased function	1A	0.20	Moderate 
