@@ -1,5 +1,4 @@
 🧬 GenomeDrugAI
-AI-Powered Drug Recommendation System Based on Genomic Data for Indian Genetic Disorders
 
 📌 Project Overview
 GenomeDrugAI is a cutting-edge AI system that integrates genomic data analysis with domain knowledge from pharmacogenomics to recommend personalized drugs. The system leverages Graph Neural Networks (GNNs) to understand gene-drug interactions and uses Reinforcement Learning (RL) to adapt recommendations based on patient-specific dynamics and feedback.
